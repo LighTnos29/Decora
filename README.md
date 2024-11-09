@@ -16,15 +16,21 @@
 - **Furniture Placement Suggestions**  
    With AI-driven recommendations, Decora suggests optimal layout configurations based on room dimensions and chosen style, helping users make efficient use of their space.
 
-## 🛠️ Technologies Used
-- **Frontend**
-  - **Angular** for building a smooth, responsive user interface.
-  - **Three.js** for rendering real-time 3D models of rooms, furniture, and decor elements.
-  
-- **Backend**
-  - **Spring Boot** for a robust, high-performance backend that handles data processing, API endpoints, and core business logic.
-  - **Auth0** for secure and streamlined user authentication.
-  - **Large Language Models (LLMs)** for AI-powered layout and style suggestions that deliver a personalized design experience based on user inputs.
+### 🛠️ **Technologies Used**
+
+**Frontend**
+
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="25"/> **Angular** - For building a responsive, user-friendly interface.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="Three.js" width="25"/> **Three.js** - For creating realistic, interactive 3D room models.
+
+**Backend**
+
+<img src="https://spring.io/images/icon-spring-boot-32x32.png" alt="Spring Boot" width="25"/> **Spring Boot** - For managing data, handling API requests, and core business logic.
+
+<img src="https://cdn.auth0.com/styleguide/components/1.0.0/media/logos/img/badge.png" alt="Auth0" width="25"/> **Auth0** - For secure and seamless user authentication.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="LLMs" width="25"/> **Large Language Models (LLMs)** - For AI-based layout optimization and style recommendations, enabling a custom design experience tailored to user inputs.
 
 ---
 
